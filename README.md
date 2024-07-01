@@ -25,7 +25,7 @@ This repository documents my journey through the "100 Days of Code" challenge. M
 
 | Day | Date       | Task and Related Question                                        |
 |-----|------------|------------------------------------------------------------------|
-| 1   | YYYY-MM-DD | Working with Variables in Python                                 |
+| 1   | 2024-07-01 | Working with Variables in Python                                 |
 | 2   | YYYY-MM-DD | Understanding Data Types and How to Manipulate Strings           |
 | 3   | YYYY-MM-DD | Control Flow and Logical Operators                               |
 | 4   | YYYY-MM-DD | Randomisation and Python Lists                                   |
@@ -94,9 +94,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **GitHub:** [yourusername](https://github.com/yourusername)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- **Email:** your.email@example.com
+- **GitHub:** [yourusername](https://github.com/pqwevg4)
+- **Email:** vinayshidurkar04@gmail.com
 
 ## Visuals and Badges
 
